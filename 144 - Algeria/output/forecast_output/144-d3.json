@@ -1,0 +1,2203 @@
+[
+   {
+      "name": "144",
+      "parent": "World",
+      "children": [
+         {
+            "name": 14,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "14.1",
+                  "parent": 14,
+                  "children": [
+                     {
+                        "name": "14.1.1",
+                        "parent": "14.1",
+                        "children": [
+                           {
+                              "name": "EN_MAR_CHLDEV__T_BOTHSEX_ALP__F",
+                              "parent": "14.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 2,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "2.2",
+                  "parent": 2,
+                  "children": [
+                     {
+                        "name": "2.2.2",
+                        "parent": "2.2",
+                        "children": [
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NFO__T",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FOF__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_COL__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__BIM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CPR__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WOD__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_PET__T",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__PET__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WOD__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WCH__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FOF__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NFO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NFO__T",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMA__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_ALP__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__MEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMA__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FOF__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__COL__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__ALP__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__BIM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__COL__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CRO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__GBO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CRO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_BIM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__MEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WCH__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WOD__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CRO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__GBO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMC__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMA__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CPR__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMC__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_MEO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_GBO__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__PET__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WCH__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMM__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CPR__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__ALP__F",
+                              "parent": "2.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMC__F",
+                              "parent": "2.2.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "2.c",
+                  "parent": 2,
+                  "children": [
+                     {
+                        "name": "2.c.1",
+                        "parent": "2.c",
+                        "children": [
+                           {
+                              "name": "AG_FPA_COMM__WHE__F",
+                              "parent": "2.c.1"
+                           },
+                           {
+                              "name": "AG_FPA_COMM__RIC__F",
+                              "parent": "2.c.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "2.a",
+                  "parent": 2,
+                  "children": [
+                     {
+                        "name": "2.a.1",
+                        "parent": "2.a",
+                        "children": [
+                           {
+                              "name": "AG_XPD_AGSGB__A__F",
+                              "parent": "2.a.1"
+                           },
+                           {
+                              "name": "AG_PRD_AGVAS__A__F",
+                              "parent": "2.a.1"
+                           },
+                           {
+                              "name": "AG_PRD_ORTIND__A__F",
+                              "parent": "2.a.1"
+                           }
+                        ]
+                     },
+                     {
+                        "name": "2.a.2",
+                        "parent": "2.a",
+                        "children": [
+                           {
+                              "name": "DC_TOF_AGRL__2018.0__F",
+                              "parent": "2.a.2"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 9,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "9.a",
+                  "parent": 9,
+                  "children": [
+                     {
+                        "name": "9.a.1",
+                        "parent": "9.a",
+                        "children": [
+                           {
+                              "name": "DC_TOF_INFRAL__2018.0__CUT",
+                              "parent": "9.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "9.4",
+                  "parent": 9,
+                  "children": [
+                     {
+                        "name": "9.4.1",
+                        "parent": "9.4",
+                        "children": [
+                           {
+                              "name": "EN_ATM_CO2__TOTAL__F",
+                              "parent": "9.4.1"
+                           },
+                           {
+                              "name": "EN_ATM_CO2__ISIC4_C10T32X19__F",
+                              "parent": "9.4.1"
+                           },
+                           {
+                              "name": "EN_ATM_CO2GDP__2017.0__F",
+                              "parent": "9.4.1"
+                           },
+                           {
+                              "name": "EN_ATM_CO2MVA__2015.0__F",
+                              "parent": "9.4.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "9.2",
+                  "parent": 9,
+                  "children": [
+                     {
+                        "name": "9.2.1",
+                        "parent": "9.2",
+                        "children": [
+                           {
+                              "name": "NV_IND_MANF__2015.0__F",
+                              "parent": "9.2.1"
+                           },
+                           {
+                              "name": "NV_IND_MANFPC__2015.0__F",
+                              "parent": "9.2.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "9.1",
+                  "parent": 9,
+                  "children": [
+                     {
+                        "name": "9.1.2",
+                        "parent": "9.1",
+                        "children": [
+                           {
+                              "name": "IS_RDP_PORFVOL__SEA__F",
+                              "parent": "9.1.2"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 10,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "10.a",
+                  "parent": 10,
+                  "children": [
+                     {
+                        "name": "10.a.1",
+                        "parent": "10.a",
+                        "children": [
+                           {
+                              "name": "TM_TRF_ZERO__IND__F",
+                              "parent": "10.a.1"
+                           },
+                           {
+                              "name": "TM_TRF_ZERO__ALP__F",
+                              "parent": "10.a.1"
+                           },
+                           {
+                              "name": "TM_TRF_ZERO__TEX__F",
+                              "parent": "10.a.1"
+                           },
+                           {
+                              "name": "TM_TRF_ZERO__CLO__F",
+                              "parent": "10.a.1"
+                           },
+                           {
+                              "name": "TM_TRF_ZERO__AGR__F",
+                              "parent": "10.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "10.6",
+                  "parent": 10,
+                  "children": [
+                     {
+                        "name": "10.6.1",
+                        "parent": "10.6",
+                        "children": [
+                           {
+                              "name": "SG_INT_MBRDEV__IBRD__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__WTO__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__IFC__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__UNGA__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__IFC__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__ADB__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__UNGA__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__IMF__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__ADB__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__IBRD__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__IMF__F",
+                              "parent": "10.6.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__WTO__F",
+                              "parent": "10.6.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "10.5",
+                  "parent": 10,
+                  "children": [
+                     {
+                        "name": "10.5.1",
+                        "parent": "10.5",
+                        "children": [
+                           {
+                              "name": "FI_FSI_FSKRTC__A__F",
+                              "parent": "10.5.1"
+                           },
+                           {
+                              "name": "FI_FSI_FSERA__A__F",
+                              "parent": "10.5.1"
+                           },
+                           {
+                              "name": "FI_FSI_FSLS__A__T",
+                              "parent": "10.5.1"
+                           },
+                           {
+                              "name": "FI_FSI_FSKA__A__F",
+                              "parent": "10.5.1"
+                           },
+                           {
+                              "name": "FI_FSI_FSKNL__A__F",
+                              "parent": "10.5.1"
+                           },
+                           {
+                              "name": "FI_FSI_FSANL__A__T",
+                              "parent": "10.5.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 1,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "1.4",
+                  "parent": 1,
+                  "children": [
+                     {
+                        "name": "1.4.1",
+                        "parent": "1.4",
+                        "children": [
+                           {
+                              "name": "SP_ACS_BSRVH2O__URBAN__F",
+                              "parent": "1.4.1"
+                           },
+                           {
+                              "name": "SP_ACS_BSRVSAN__URBAN__F",
+                              "parent": "1.4.1"
+                           },
+                           {
+                              "name": "SP_ACS_BSRVH2O__ALLAREA__F",
+                              "parent": "1.4.1"
+                           },
+                           {
+                              "name": "SP_ACS_BSRVH2O__RURAL__F",
+                              "parent": "1.4.1"
+                           },
+                           {
+                              "name": "SP_ACS_BSRVSAN__ALLAREA__F",
+                              "parent": "1.4.1"
+                           },
+                           {
+                              "name": "SP_ACS_BSRVSAN__RURAL__F",
+                              "parent": "1.4.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "1.1",
+                  "parent": 1,
+                  "children": [
+                     {
+                        "name": "1.1.1",
+                        "parent": "1.1",
+                        "children": [
+                           {
+                              "name": "SI_POV_EMP1__FEMALE_25+__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__BOTHSEX_25+__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__BOTHSEX_15-24__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__BOTHSEX_15+__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__FEMALE_15-24__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__15-24_MALE__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__MALE_25+__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__FEMALE_15+__F",
+                              "parent": "1.1.1"
+                           },
+                           {
+                              "name": "SI_POV_EMP1__MALE_15+__F",
+                              "parent": "1.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 11,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "11.6",
+                  "parent": 11,
+                  "children": [
+                     {
+                        "name": "11.6.2",
+                        "parent": "11.6",
+                        "children": [
+                           {
+                              "name": "EN_ATM_PM25__URBAN__F",
+                              "parent": "11.6.2"
+                           },
+                           {
+                              "name": "EN_ATM_PM25__RURAL__F",
+                              "parent": "11.6.2"
+                           },
+                           {
+                              "name": "EN_ATM_PM25__ALLAREA__F",
+                              "parent": "11.6.2"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 15,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "15.a",
+                  "parent": 15,
+                  "children": [
+                     {
+                        "name": "15.a.1",
+                        "parent": "15.a",
+                        "children": [
+                           {
+                              "name": "DC_ODA_BDVL__2018.0__T",
+                              "parent": "15.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "15.b",
+                  "parent": 15,
+                  "children": [
+                     {
+                        "name": "15.b.1",
+                        "parent": "15.b",
+                        "children": [
+                           {
+                              "name": "DC_ODA_BDVL__2018.0__T",
+                              "parent": "15.b.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 3,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "3.3",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.3.1",
+                        "parent": "3.3",
+                        "children": [
+                           {
+                              "name": "SH_HIV_INCD__ALLAGE_FEMALE__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__BOTHSEX_50+__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__FEMALE_15-49__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__15-24_MALE__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__BOTHSEX_ALLAGE__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__BOTHSEX_15-49__F",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__15-49_MALE__F",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__FEMALE_15-24__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__MALE_50+__T",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__BOTHSEX_15-24__F",
+                              "parent": "3.3.1"
+                           },
+                           {
+                              "name": "SH_HIV_INCD__ALLAGE_MALE__F",
+                              "parent": "3.3.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.a",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.a.1",
+                        "parent": "3.a",
+                        "children": [
+                           {
+                              "name": "SH_PRV_SMOK__MALE_15+__F",
+                              "parent": "3.a.1"
+                           },
+                           {
+                              "name": "SH_PRV_SMOK__FEMALE_15+__F",
+                              "parent": "3.a.1"
+                           },
+                           {
+                              "name": "SH_PRV_SMOK__BOTHSEX_15+__F",
+                              "parent": "3.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.d",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.d.1",
+                        "parent": "3.d",
+                        "children": [
+                           {
+                              "name": "SH_IHR_CAPS__IHR06__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR11__T",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR07__T",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR02__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR04__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR10__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR09__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR13__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR03__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR08__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR05__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR12__F",
+                              "parent": "3.d.1"
+                           },
+                           {
+                              "name": "SH_IHR_CAPS__IHR01__F",
+                              "parent": "3.d.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.2",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.2.2",
+                        "parent": "3.2",
+                        "children": [
+                           {
+                              "name": "SH_DYN_NMRT__BOTHSEX_<1M__F",
+                              "parent": "3.2.2"
+                           },
+                           {
+                              "name": "SH_DYN_NMRTN__BOTHSEX_<1M__F",
+                              "parent": "3.2.2"
+                           }
+                        ]
+                     },
+                     {
+                        "name": "3.2.1",
+                        "parent": "3.2",
+                        "children": [
+                           {
+                              "name": "SH_DYN_IMRT__MALE_<1Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_IMRTN__MALE_<1Y__T",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORTN__FEMALE_<5Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORT__BOTHSEX_<5Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_IMRTN__FEMALE_<1Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_IMRT__BOTHSEX_<1Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORT__FEMALE_<5Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORT__MALE_<5Y__T",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_IMRTN__BOTHSEX_<1Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORTN__MALE_<5Y__T",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_IMRT__FEMALE_<1Y__F",
+                              "parent": "3.2.1"
+                           },
+                           {
+                              "name": "SH_DYN_MORTN__BOTHSEX_<5Y__T",
+                              "parent": "3.2.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.b",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.b.2",
+                        "parent": "3.b",
+                        "children": [
+                           {
+                              "name": "DC_TOF_HLTHNT__2018.0__F",
+                              "parent": "3.b.2"
+                           },
+                           {
+                              "name": "DC_TOF_HLTHL__2018.0__F",
+                              "parent": "3.b.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.7",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.7.2",
+                        "parent": "3.7",
+                        "children": [
+                           {
+                              "name": "SP_DYN_ADKL__FEMALE_15-19__F",
+                              "parent": "3.7.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "3.c",
+                  "parent": 3,
+                  "children": [
+                     {
+                        "name": "3.c.1",
+                        "parent": "3.c",
+                        "children": [
+                           {
+                              "name": "SH_MED_DEN__NURSMID__F",
+                              "parent": "3.c.1"
+                           },
+                           {
+                              "name": "SH_MED_DEN__PHYS__F",
+                              "parent": "3.c.1"
+                           },
+                           {
+                              "name": "SH_MED_DEN__PHAR__F",
+                              "parent": "3.c.1"
+                           },
+                           {
+                              "name": "SH_MED_DEN__DENT__F",
+                              "parent": "3.c.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 4,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "4.c",
+                  "parent": 4,
+                  "children": [
+                     {
+                        "name": "4.c.1",
+                        "parent": "4.c",
+                        "children": [
+                           {
+                              "name": "SE_TRA_GRDL__BOTHSEX_PRIMAR__CUT",
+                              "parent": "4.c.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "4.3",
+                  "parent": 4,
+                  "children": [
+                     {
+                        "name": "4.3.1",
+                        "parent": "4.3",
+                        "children": [
+                           {
+                              "name": "SE_ADT_EDUCTRN__BOTHSEX__F",
+                              "parent": "4.3.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "4.b",
+                  "parent": 4,
+                  "children": [
+                     {
+                        "name": "4.b.1",
+                        "parent": "4.b",
+                        "children": [
+                           {
+                              "name": "DC_TOF_SCHIPSL__2018.0__CUT",
+                              "parent": "4.b.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 16,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "16.1",
+                  "parent": 16,
+                  "children": [
+                     {
+                        "name": "16.1.1",
+                        "parent": "16.1",
+                        "children": [
+                           {
+                              "name": "VC_IHR_PSRC__MALE__F",
+                              "parent": "16.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRC__FEMALE__F",
+                              "parent": "16.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRCN__MALE__F",
+                              "parent": "16.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRCN__FEMALE__F",
+                              "parent": "16.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "16.8",
+                  "parent": 16,
+                  "children": [
+                     {
+                        "name": "16.8.1",
+                        "parent": "16.8",
+                        "children": [
+                           {
+                              "name": "SG_INT_VRTDEV__IBRD__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__IBRD__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__WTO__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__UNGA__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__WTO__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__IFC__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__UNGA__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__ADB__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__IFC__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__IMF__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_VRTDEV__IMF__F",
+                              "parent": "16.8.1"
+                           },
+                           {
+                              "name": "SG_INT_MBRDEV__ADB__F",
+                              "parent": "16.8.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 7,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "7.a",
+                  "parent": 7,
+                  "children": [
+                     {
+                        "name": "7.a.1",
+                        "parent": "7.a",
+                        "children": [
+                           {
+                              "name": "EG_IFF_RANDN__2018.0__F",
+                              "parent": "7.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "7.1",
+                  "parent": 7,
+                  "children": [
+                     {
+                        "name": "7.1.1",
+                        "parent": "7.1",
+                        "children": [
+                           {
+                              "name": "GR_G14_GDP__A__F",
+                              "parent": "7.1.1"
+                           },
+                           {
+                              "name": "EG_ACS_ELEC__ALLAREA__F",
+                              "parent": "7.1.1"
+                           },
+                           {
+                              "name": "EG_ACS_ELEC__RURAL__F",
+                              "parent": "7.1.1"
+                           },
+                           {
+                              "name": "EG_ACS_ELEC__URBAN__F",
+                              "parent": "7.1.1"
+                           },
+                           {
+                              "name": "GR_G14_XDC__A__F",
+                              "parent": "7.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "7.3",
+                  "parent": 7,
+                  "children": [
+                     {
+                        "name": "7.3.1",
+                        "parent": "7.3",
+                        "children": [
+                           {
+                              "name": "EG_EGY_PRIM__2011.0__F",
+                              "parent": "7.3.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 6,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "6.1",
+                  "parent": 6,
+                  "children": [
+                     {
+                        "name": "6.1.1",
+                        "parent": "6.1",
+                        "children": [
+                           {
+                              "name": "VC_IHR_PSRC__FEMALE__F",
+                              "parent": "6.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRCN__MALE__F",
+                              "parent": "6.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRC__MALE__F",
+                              "parent": "6.1.1"
+                           },
+                           {
+                              "name": "SH_H2O_SAFE__URBAN__F",
+                              "parent": "6.1.1"
+                           },
+                           {
+                              "name": "VC_IHR_PSRCN__FEMALE__F",
+                              "parent": "6.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "6.4",
+                  "parent": 6,
+                  "children": [
+                     {
+                        "name": "6.4.2",
+                        "parent": "6.4",
+                        "children": [
+                           {
+                              "name": "ER_H2O_STRESS__I__F",
+                              "parent": "6.4.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "6.2",
+                  "parent": 6,
+                  "children": [
+                     {
+                        "name": "6.2.1",
+                        "parent": "6.2",
+                        "children": [
+                           {
+                              "name": "SH_SAN_DEFECT__ALLAREA__T",
+                              "parent": "6.2.1"
+                           },
+                           {
+                              "name": "SH_SAN_DEFECT__RURAL__F",
+                              "parent": "6.2.1"
+                           },
+                           {
+                              "name": "SH_SAN_DEFECT__URBAN__T",
+                              "parent": "6.2.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "6.a",
+                  "parent": 6,
+                  "children": [
+                     {
+                        "name": "6.a.1",
+                        "parent": "6.a",
+                        "children": [
+                           {
+                              "name": "DC_TOF_WASHL__2018.0__CUT",
+                              "parent": "6.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 17,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "17.6",
+                  "parent": 17,
+                  "children": [
+                     {
+                        "name": "17.6.1",
+                        "parent": "17.6",
+                        "children": [
+                           {
+                              "name": "IT_NET_BBND__2MT10MBPS__T",
+                              "parent": "17.6.1"
+                           },
+                           {
+                              "name": "IT_NET_BBNDN__10MBPS__T",
+                              "parent": "17.6.1"
+                           },
+                           {
+                              "name": "IT_NET_BBND__ANYS__F",
+                              "parent": "17.6.1"
+                           },
+                           {
+                              "name": "IT_NET_BBND__10MBPS__T",
+                              "parent": "17.6.1"
+                           },
+                           {
+                              "name": "IT_NET_BBNDN__ANYS__T",
+                              "parent": "17.6.1"
+                           },
+                           {
+                              "name": "IT_NET_BBNDN__2MT10MBPS__F",
+                              "parent": "17.6.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "17.9",
+                  "parent": 17,
+                  "children": [
+                     {
+                        "name": "17.9.1",
+                        "parent": "17.9",
+                        "children": [
+                           {
+                              "name": "DC_FTA_TOTAL__2018.0__F",
+                              "parent": "17.9.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "17.12",
+                  "parent": 17,
+                  "children": [
+                     {
+                        "name": "17.12.1",
+                        "parent": "17.12",
+                        "children": [
+                           {
+                              "name": "TM_TAX_DMFN__ALP__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DPRF__IND__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DPRF__CLO__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DPRF__AGR__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DMFN__IND__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DMFN__TEX__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DMFN__AGR__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DMFN__CLO__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DPRF__TEX__CUT",
+                              "parent": "17.12.1"
+                           },
+                           {
+                              "name": "TM_TAX_DPRF__ALP__CUT",
+                              "parent": "17.12.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "17.1",
+                  "parent": 17,
+                  "children": [
+                     {
+                        "name": "17.1.2",
+                        "parent": "17.1",
+                        "children": [
+                           {
+                              "name": "GC_GOB_TAXD__A__F",
+                              "parent": "17.1.2"
+                           }
+                        ]
+                     },
+                     {
+                        "name": "17.1.1",
+                        "parent": "17.1",
+                        "children": [
+                           {
+                              "name": "GR_G14_GDP__A__F",
+                              "parent": "17.1.1"
+                           },
+                           {
+                              "name": "GR_G14_XDC__A__F",
+                              "parent": "17.1.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "17.17",
+                  "parent": 17,
+                  "children": [
+                     {
+                        "name": "17.17.1",
+                        "parent": "17.17",
+                        "children": [
+                           {
+                              "name": "GF_COM_PPPI__17.17.1_2019.0__F",
+                              "parent": "17.17.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 5,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "5.5",
+                  "parent": 5,
+                  "children": [
+                     {
+                        "name": "5.5.1",
+                        "parent": "5.5",
+                        "children": [
+                           {
+                              "name": "SG_GEN_PARL__FEMALE__F",
+                              "parent": "5.5.1"
+                           },
+                           {
+                              "name": "SG_GEN_PARLN__FEMALE__F",
+                              "parent": "5.5.1"
+                           }
+                        ]
+                     },
+                     {
+                        "name": "5.5.2",
+                        "parent": "5.5",
+                        "children": [
+                           {
+                              "name": "IC_GEN_MGTN__FEMALE__F",
+                              "parent": "5.5.2"
+                           },
+                           {
+                              "name": "IC_GEN_MGTL__FEMALE__F",
+                              "parent": "5.5.2"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 8,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "8.a",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.a.1",
+                        "parent": "8.a",
+                        "children": [
+                           {
+                              "name": "DC_TOF_TRDCML__2018.0__F",
+                              "parent": "8.a.1"
+                           },
+                           {
+                              "name": "DC_TOF_TRDDBML__2018.0__F",
+                              "parent": "8.a.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "8.8",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.8.1",
+                        "parent": "8.8",
+                        "children": [
+                           {
+                              "name": "SL_EMP_FTLINJUR__T__F",
+                              "parent": "8.8.1"
+                           },
+                           {
+                              "name": "SL_EMP_INJUR__T__F",
+                              "parent": "8.8.1"
+                           },
+                           {
+                              "name": "SL_EMP_FTLINJUR__T__F",
+                              "parent": "8.8.1"
+                           },
+                           {
+                              "name": "SL_EMP_INJUR__T__T",
+                              "parent": "8.8.1"
+                           },
+                           {
+                              "name": "SL_EMP_INJUR__T__T",
+                              "parent": "8.8.1"
+                           },
+                           {
+                              "name": "SL_EMP_FTLINJUR__T__F",
+                              "parent": "8.8.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "8.1",
+                  "parent": 8,
+                  "children": []
+               },
+               {
+                  "name": "8.6",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.6.1",
+                        "parent": "8.6",
+                        "children": [
+                           {
+                              "name": "SL_TLF_NEET__BOTHSEX_15-24__F",
+                              "parent": "8.6.1"
+                           },
+                           {
+                              "name": "SL_TLF_NEET__FEMALE_15-24__F",
+                              "parent": "8.6.1"
+                           },
+                           {
+                              "name": "SL_TLF_NEET__15-24_MALE__F",
+                              "parent": "8.6.1"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "8.5",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.5.1",
+                        "parent": "8.5",
+                        "children": [
+                           {
+                              "name": "SL_EMP_EARN__isco08-7_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-3_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-5_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-1_BOTHSEX__T",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-4_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-9_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-8_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-5_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-6_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-3_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-0_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-6_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-9_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-9_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-8_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-1_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-4_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-7_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-0_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-8_FEMALE__T",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-2_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-4_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-3_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-2_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-2_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-5_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08_BOTHSEX__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-7_MALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-1_FEMALE__F",
+                              "parent": "8.5.1"
+                           },
+                           {
+                              "name": "SL_EMP_EARN__isco08-6_MALE__F",
+                              "parent": "8.5.1"
+                           }
+                        ]
+                     },
+                     {
+                        "name": "8.5.2",
+                        "parent": "8.5",
+                        "children": [
+                           {
+                              "name": "SL_TLF_UEM__BOTHSEX_15-24__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__FEMALE_15+__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__MALE_15+__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__BOTHSEX_15+__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__MALE_25+__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__FEMALE_25+__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__FEMALE_15-24__F",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__15-24_MALE__T",
+                              "parent": "8.5.2"
+                           },
+                           {
+                              "name": "SL_TLF_UEM__BOTHSEX_25+__F",
+                              "parent": "8.5.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "8.4",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.4.2",
+                        "parent": "8.4",
+                        "children": [
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_MEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WOD__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMA__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_ALP__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CRO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMA__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__PET__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CPR__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FOF__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMA__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FOF__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__MEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__GBO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__COL__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WOD__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__ALP__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_GBO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WCH__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__BIM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__GBO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_BIM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMC__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_COL__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WCH__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CRO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NFO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CRO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NFO__T",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__COL__T",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMC__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WOD__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__BIM__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMC__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__MEO__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NFO__T",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CPR__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FOF__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_PET__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__ALP__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CPR__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__PET__F",
+                              "parent": "8.4.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WCH__F",
+                              "parent": "8.4.2"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "name": "8.3",
+                  "parent": 8,
+                  "children": [
+                     {
+                        "name": "8.3.1",
+                        "parent": "8.3",
+                        "children": [
+                           {
+                              "name": "SL_ISV_IFEM__MALE_NONAGR__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__MALE_TOTAL__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__FEMALE_TOTAL__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__FEMALE_ISIC4_A__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__BOTHSEX_TOTAL__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__BOTHSEX_ISIC4_A__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__BOTHSEX_NONAGR__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__MALE_ISIC4_A__F",
+                              "parent": "8.3.1"
+                           },
+                           {
+                              "name": "SL_ISV_IFEM__FEMALE_NONAGR__F",
+                              "parent": "8.3.1"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "name": 12,
+            "parent": "144",
+            "children": [
+               {
+                  "name": "12.2",
+                  "parent": 12,
+                  "children": [
+                     {
+                        "name": "12.2.2",
+                        "parent": "12.2",
+                        "children": [
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NFO__T",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FOF__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_COL__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__BIM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CPR__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WOD__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_PET__T",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__PET__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WOD__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WCH__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__FOF__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NFO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NFO__T",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMA__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_ALP__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__MEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMA__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_FOF__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__COL__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__ALP__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__BIM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__COL__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__CRO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__GBO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CRO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_BIM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__MEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__FEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_WCH__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__WOD__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CRO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__GBO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_NMC__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMA__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__CPR__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMC__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_MEO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_GBO__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__PET__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__WCH__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__NMM__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPG__2010.0_CPR__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPT__ALP__F",
+                              "parent": "12.2.2"
+                           },
+                           {
+                              "name": "EN_MAT_DOMCMPC__NMC__F",
+                              "parent": "12.2.2"
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]

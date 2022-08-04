@@ -1,0 +1,1091 @@
+Gaol 1 
+0. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_NAHC', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+1. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_NAHC', 'Units': 'PERCENT', 'Location': 'RURAL'}
+2. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_NAHC', 'Units': 'PERCENT', 'Location': 'URBAN'}
+3. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MMHN', 'Units': 'NUMBER'}
+4. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_SOCAST', 'Quantile': 'Q1', 'Units': 'PERCENT'}
+5. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_SOCAST', 'Quantile': '_T', 'Units': 'PERCENT'}
+6. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVSAN', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+7. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVSAN', 'Units': 'PERCENT', 'Location': 'RURAL'}
+8. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVSAN', 'Units': 'PERCENT', 'Location': 'URBAN'}
+9. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_DAY1', 'Units': 'PERCENT'}
+10. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_GDPLS', 'Units': 'CU_USD'}
+11. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_DAFF', 'Units': 'PER_100000_POP'}
+12. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MORT', 'Units': 'NUMBER'}
+13. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_POOR', 'Units': 'PERCENT'}
+14. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHHC', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+15. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_MATNL', 'Units': 'PERCENT'}
+16. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_WKINJRY', 'Units': 'PERCENT'}
+17. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.4', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILN', 'Units': 'NUMBER'}
+18. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_BENFTS', 'Units': 'PERCENT'}
+19. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_LSGP', 'Units': 'PERCENT'}
+20. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVH2O', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+21. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVH2O', 'Units': 'PERCENT', 'Location': 'RURAL'}
+22. SD {'Goal': '1', 'Target': '1.4', 'Indicator': '1.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_ACS_BSRVH2O', 'Units': 'PERCENT', 'Location': 'URBAN'}
+23. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.4', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILS', 'Units': 'PERCENT'}
+24. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MISS', 'Units': 'NUMBER'}
+25. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_ANDI', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+26. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDYN', 'Units': 'NUMBER'}
+27. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_CHLD', 'Units': 'PERCENT'}
+28. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_SOCINS', 'Quantile': 'Q1', 'Units': 'PERCENT'}
+29. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_SOCINS', 'Quantile': '_T', 'Units': 'PERCENT'}
+30. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15-24', 'Units': 'PERCENT'}
+31. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15+', 'Units': 'PERCENT'}
+32. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '25+', 'Units': 'PERCENT'}
+33. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15-24', 'Units': 'PERCENT'}
+34. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15+', 'Units': 'PERCENT'}
+35. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '25+', 'Units': 'PERCENT'}
+36. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15-24', 'Units': 'PERCENT'}
+37. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '15+', 'Units': 'PERCENT'}
+38. SD {'Goal': '1', 'Target': '1.1', 'Indicator': '1.1.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_EMP1', 'Age': '25+', 'Units': 'PERCENT'}
+39. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_IJILN', 'Units': 'NUMBER'}
+40. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MTMP', 'Units': 'PER_100000_POP'}
+41. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.4', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GOV_LOGV', 'Units': 'NUMBER'}
+42. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_AFFCT', 'Units': 'NUMBER'}
+43. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+44. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'May-17', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+45. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+46. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'May-17', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+47. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+48. SD {'Goal': '1', 'Target': '1.2', 'Indicator': '1.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_MDP_MUHC', 'Age': 'May-17', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+49. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_UEMP', 'Units': 'PERCENT'}
+50. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_UEMP', 'Units': 'PERCENT'}
+51. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_UEMP', 'Units': 'PERCENT'}
+52. SD {'Goal': '1', 'Target': '1.a', 'Indicator': '1.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_ODA_POVLG', 'Units': 'PERCENT'}
+53. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_VULN', 'Units': 'PERCENT'}
+54. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDAN', 'Units': 'NUMBER'}
+55. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_LGRGSR', 'Units': 'INDEX'}
+56. SD {'Goal': '1', 'Target': '1.a', 'Indicator': '1.a.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_XPD_ESED', 'Units': 'PERCENT'}
+57. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_PENSN', 'Units': 'PERCENT'}
+58. SD {'Goal': '1', 'Target': '1.5', 'Indicator': '1.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_HOLH', 'Units': 'CU_USD'}
+59. SD {'Goal': '1', 'Target': '1.3', 'Indicator': '1.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_COV_DISAB', 'Units': 'PERCENT'}
+Gaol 2 
+0. SD {'Goal': '2', 'Target': '2.5', 'Indicator': '2.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_RSK_LBREDS', 'Units': 'PERCENT'}
+1. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+2. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+3. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+4. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+5. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+6. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+7. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+8. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+9. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+10. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+11. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+12. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+13. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_CFPI', 'Units': 'INDEX'}
+14. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.3', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_ANEM', 'Age': '15-49', 'Units': 'PERCENT'}
+15. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SN_STA_OVWGT', 'Age': '<5Y', 'Units': 'PER_POP_U5'}
+16. SD {'Goal': '2', 'Target': '2.a', 'Indicator': '2.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_AGVAS', 'Units': 'PERCENT', 'Observation Status': 'A'}
+17. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+18. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+19. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+20. SD {'Goal': '2', 'Target': '2.5', 'Indicator': '2.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_GRF_PLNTSTOR', 'Units': 'NUMBER'}
+21. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SN_ITK_DEFC', 'Units': 'PERCENT'}
+22. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_STNTN', 'Age': '<5Y', 'Units': 'NUM_TH'}
+23. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+24. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+25. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+26. SD {'Goal': '2', 'Target': '2.b', 'Indicator': '2.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_XSUBDY', 'Units': 'CU_USD_M'}
+27. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_COMM', 'Units': 'INDEX', 'Type of product': 'MAZ'}
+28. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_COMM', 'Units': 'INDEX', 'Type of product': 'SOR'}
+29. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_COMM', 'Units': 'INDEX', 'Type of product': 'RIC'}
+30. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_COMM', 'Units': 'INDEX', 'Type of product': 'MIL'}
+31. SD {'Goal': '2', 'Target': '2.c', 'Indicator': '2.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_FPA_COMM', 'Units': 'INDEX', 'Type of product': 'WHE'}
+32. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.3', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_ANEM_NPRG', 'Age': '15-49', 'Units': 'PERCENT'}
+33. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_WASTN', 'Age': '<5Y', 'Units': 'NUM_TH'}
+34. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.3', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_ANEM_PREG', 'Age': '15-49', 'Units': 'PERCENT'}
+35. SD {'Goal': '2', 'Target': '2.a', 'Indicator': '2.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_ORTIND', 'Units': 'INDEX', 'Observation Status': 'A'}
+36. SD {'Goal': '2', 'Target': '2.a', 'Indicator': '2.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_XPD_AGSGB', 'Units': 'PERCENT', 'Observation Status': 'A'}
+37. SD {'Goal': '2', 'Target': '2.5', 'Indicator': '2.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_GRF_ANIMRCNTN', 'Units': 'NUMBER'}
+38. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SN_ITK_DEFCN', 'Units': 'NUM_M'}
+39. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_STNT', 'Age': '<5Y', 'Units': 'PER_POP_U5'}
+40. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_WAST', 'Age': '<5Y', 'Units': 'PER_POP_U5'}
+41. SD {'Goal': '2', 'Target': '2.2', 'Indicator': '2.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SN_STA_OVWGTN', 'Age': '<5Y', 'Units': 'NUM_TH'}
+42. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+43. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+44. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+45. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+46. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': '15+', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+47. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESMSN', 'Age': 'ALLAGE', 'Units': 'NUM_TH', 'Observation Status': 'V'}
+48. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+49. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+50. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_LSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+51. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+52. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+53. SD {'Goal': '2', 'Target': '2.3', 'Indicator': '2.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'PD_AGR_SSFP', 'Units': 'CON_USD', 'BasePeriod': '2011.0'}
+54. SD {'Goal': '2', 'Target': '2.a', 'Indicator': '2.a.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_AGRL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+55. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+56. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+57. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+58. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+59. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': '15+', 'Units': 'PERCENT', 'Observation Status': 'V'}
+60. SD {'Goal': '2', 'Target': '2.1', 'Indicator': '2.1.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_PRD_FIESS', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Observation Status': 'V'}
+Gaol 3 
+0. SD {'Goal': '3', 'Target': '3.b', 'Indicator': '3.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ACS_HPV', 'Units': 'PERCENT'}
+1. SD {'Goal': '3', 'Target': '3.8', 'Indicator': '3.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ACS_UNHC', 'Units': 'INDEX'}
+2. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_TBS_INCD', 'Units': 'PER_100000_POP'}
+3. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.5', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_TRP_INTVN', 'Units': 'NUMBER'}
+4. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRTN', 'Age': '<1Y', 'Units': 'NUMBER'}
+5. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRTN', 'Age': '<1Y', 'Units': 'NUMBER'}
+6. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRTN', 'Age': '<1Y', 'Units': 'NUMBER'}
+7. SD {'Goal': '3', 'Target': '3.a', 'Indicator': '3.a.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_PRV_SMOK', 'Age': '15+', 'Units': 'PERCENT'}
+8. SD {'Goal': '3', 'Target': '3.a', 'Indicator': '3.a.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_PRV_SMOK', 'Age': '15+', 'Units': 'PERCENT'}
+9. SD {'Goal': '3', 'Target': '3.a', 'Indicator': '3.a.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_PRV_SMOK', 'Age': '15+', 'Units': 'PERCENT'}
+10. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCOM', 'Age': '30-70', 'Units': 'PERCENT'}
+11. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCOM', 'Age': '30-70', 'Units': 'PERCENT'}
+12. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCOM', 'Age': '30-70', 'Units': 'PERCENT'}
+13. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.3', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_POISN', 'Units': 'PER_100000_POP'}
+14. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.3', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_POISN', 'Units': 'PER_100000_POP'}
+15. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.3', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_POISN', 'Units': 'PER_100000_POP'}
+16. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_WASH', 'Units': 'PER_100000_POP'}
+17. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDEN', 'Units': 'NUMBER'}
+18. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDEN', 'Units': 'NUMBER'}
+19. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDEN', 'Units': 'NUMBER'}
+20. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_AAP_ASMORT', 'Units': 'PER_100000_POP'}
+21. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRT', 'Age': '<1Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+22. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRT', 'Age': '<1Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+23. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_IMRT', 'Age': '<1Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+24. SD {'Goal': '3', 'Target': '3.1', 'Indicator': '3.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_MORT', 'Units': 'PER_100000_LIVE_BIRTHS'}
+25. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_AAP_MORT', 'Units': 'PER_100000_POP'}
+26. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ALC_CONSPT', 'Age': '15+', 'Units': 'LTPUREAL'}
+27. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ALC_CONSPT', 'Age': '15+', 'Units': 'LTPUREAL'}
+28. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ALC_CONSPT', 'Age': '15+', 'Units': 'LTPUREAL'}
+29. SD {'Goal': '3', 'Target': '3.8', 'Indicator': '3.8.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_XPD_EARN25', 'Units': 'PERCENT'}
+30. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SUD_ALCOL', 'Age': '15+', 'Units': 'PERCENT'}
+31. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SUD_ALCOL', 'Age': '15+', 'Units': 'PERCENT'}
+32. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SUD_ALCOL', 'Age': '15+', 'Units': 'PERCENT'}
+33. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HAP_ASMORT', 'Units': 'PER_100000_POP'}
+34. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-24', 'Units': 'PER_1000_UNINFECTED_POP'}
+35. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '50+', 'Units': 'PER_1000_UNINFECTED_POP'}
+36. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-49', 'Units': 'PER_1000_UNINFECTED_POP'}
+37. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': 'ALLAGE', 'Units': 'PER_1000_UNINFECTED_POP'}
+38. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-24', 'Units': 'PER_1000_UNINFECTED_POP'}
+39. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '50+', 'Units': 'PER_1000_UNINFECTED_POP'}
+40. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-49', 'Units': 'PER_1000_UNINFECTED_POP'}
+41. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': 'ALLAGE', 'Units': 'PER_1000_UNINFECTED_POP'}
+42. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-24', 'Units': 'PER_1000_UNINFECTED_POP'}
+43. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '50+', 'Units': 'PER_1000_UNINFECTED_POP'}
+44. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': '15-49', 'Units': 'PER_1000_UNINFECTED_POP'}
+45. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HIV_INCD', 'Age': 'ALLAGE', 'Units': 'PER_1000_UNINFECTED_POP'}
+46. SD {'Goal': '3', 'Target': '3.b', 'Indicator': '3.b.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_HLTHL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+47. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORT', 'Age': '<5Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+48. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORT', 'Age': '<5Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+49. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORT', 'Age': '<5Y', 'Units': 'PER_1000_LIVE_BIRTHS'}
+50. SD {'Goal': '3', 'Target': '3.8', 'Indicator': '3.8.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_XPD_EARN10', 'Units': 'PERCENT'}
+51. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_DEN', 'Units': 'PER_10000_POP', 'Type of occupation': 'DENT'}
+52. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_DEN', 'Units': 'PER_10000_POP', 'Type of occupation': 'PHAR'}
+53. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_DEN', 'Units': 'PER_10000_POP', 'Type of occupation': 'PHYS'}
+54. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_DEN', 'Units': 'PER_10000_POP', 'Type of occupation': 'NURSMID'}
+55. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_AIRP', 'Units': 'PER_100000_POP'}
+56. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.4', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HAP_HBSAG', 'Age': '<5Y', 'Units': 'PERCENT'}
+57. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_ASAIRP', 'Units': 'PER_100000_POP'}
+58. SD {'Goal': '3', 'Target': '3.b', 'Indicator': '3.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ACS_MCV2', 'Units': 'PERCENT'}
+59. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORTN', 'Age': '<5Y', 'Units': 'NUMBER'}
+60. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORTN', 'Age': '<5Y', 'Units': 'NUMBER'}
+61. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_MORTN', 'Age': '<5Y', 'Units': 'NUMBER'}
+62. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAN', 'Units': 'NUMBER'}
+63. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'RES', 'Units': 'NUMBER'}
+64. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAR', 'Units': 'NUMBER'}
+65. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'DIA', 'Units': 'NUMBER'}
+66. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAN', 'Units': 'NUMBER'}
+67. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'RES', 'Units': 'NUMBER'}
+68. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAR', 'Units': 'NUMBER'}
+69. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'DIA', 'Units': 'NUMBER'}
+70. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAN', 'Units': 'NUMBER'}
+71. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'RES', 'Units': 'NUMBER'}
+72. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'CAR', 'Units': 'NUMBER'}
+73. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DTH_NCD', 'Name of non-communicable disease': 'DIA', 'Units': 'NUMBER'}
+74. SD {'Goal': '3', 'Target': '3.b', 'Indicator': '3.b.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_HLTHNT', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+75. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_HWRKDIS', 'Units': 'PERCENT', 'Type of occupation': 'PHYS'}
+76. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_HWRKDIS', 'Units': 'PERCENT', 'Type of occupation': 'NURS'}
+77. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_HWRKDIS', 'Units': 'PERCENT', 'Type of occupation': 'PHYS'}
+78. SD {'Goal': '3', 'Target': '3.c', 'Indicator': '3.c.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_MED_HWRKDIS', 'Units': 'PERCENT', 'Type of occupation': 'NURS'}
+79. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_NMRTN', 'Age': '<1M', 'Units': 'NUMBER'}
+80. SD {'Goal': '3', 'Target': '3.b', 'Indicator': '3.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_ACS_DTP3', 'Units': 'PERCENT'}
+81. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_BLD_ECOLI', 'Units': 'PERCENT'}
+82. SD {'Goal': '3', 'Target': '3.1', 'Indicator': '3.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_BRTC', 'Units': 'PERCENT'}
+83. SD {'Goal': '3', 'Target': '3.6', 'Indicator': '3.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_TRAF', 'Units': 'PER_100000_POP'}
+84. SD {'Goal': '3', 'Target': '3.5', 'Indicator': '3.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SUD_TREAT', 'Units': 'PERCENT', 'Substance use disorders': 'OPIOIDS'}
+85. SD {'Goal': '3', 'Target': '3.9', 'Indicator': '3.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_HAP_MORT', 'Units': 'PER_100000_POP'}
+86. SD {'Goal': '3', 'Target': '3.7', 'Indicator': '3.7.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_FPL_MTMM', 'Age': '15-49', 'Units': 'PERCENT'}
+87. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDE', 'Units': 'PER_100000_POP'}
+88. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDE', 'Units': 'PER_100000_POP'}
+89. SD {'Goal': '3', 'Target': '3.4', 'Indicator': '3.4.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_SCIDE', 'Units': 'PER_100000_POP'}
+90. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR01'}
+91. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR10'}
+92. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR04'}
+93. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR06'}
+94. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR13'}
+95. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR05'}
+96. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR08'}
+97. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR06'}
+98. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR03'}
+99. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR07'}
+100. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR02'}
+101. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR01'}
+102. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR11'}
+103. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR09'}
+104. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR12'}
+105. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR07'}
+106. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR10'}
+107. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR12'}
+108. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR03'}
+109. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR04'}
+110. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR02'}
+111. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR05'}
+112. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR13'}
+113. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'IHR08'}
+114. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR11'}
+115. SD {'Goal': '3', 'Target': '3.d', 'Indicator': '3.d.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_IHR_CAPS', 'Units': 'PERCENT', 'IHR Capacity': 'SPAR09'}
+116. SD {'Goal': '3', 'Target': '3.3', 'Indicator': '3.3.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_STA_MALR', 'Units': 'PER_1000_POP'}
+117. SD {'Goal': '3', 'Target': '3.2', 'Indicator': '3.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_DYN_NMRT', 'Age': '<1M', 'Units': 'PER_1000_LIVE_BIRTHS'}
+118. SD {'Goal': '3', 'Target': '3.7', 'Indicator': '3.7.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_DYN_ADKL', 'Age': '15-19', 'Units': 'PER_1000_POP'}
+Gaol 4 
+0. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+1. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+2. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+3. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+4. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+5. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+6. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+7. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+8. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+9. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+10. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+11. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+12. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+13. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+14. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+15. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+16. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+17. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+18. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+19. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+20. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+21. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+22. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+23. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+24. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+25. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+26. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AWP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+27. SD {'Goal': '4', 'Target': '4.6', 'Indicator': '4.6.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ADT_FUNS', 'Age': '16-65', 'Units': 'PERCENT', 'Type of skill': 'LITE'}
+28. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACC_HNDWSH', 'Units': 'PERCENT'}
+29. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACC_HNDWSH', 'Units': 'PERCENT'}
+30. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACC_HNDWSH', 'Units': 'PERCENT'}
+31. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+32. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'RURAL'}
+33. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'URBAN'}
+34. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+35. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'RURAL'}
+36. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'URBAN'}
+37. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+38. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'RURAL'}
+39. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'URBAN'}
+40. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+41. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+42. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+43. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+44. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'RURAL'}
+45. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'URBAN'}
+46. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+47. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'RURAL'}
+48. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'URBAN'}
+49. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+50. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'RURAL'}
+51. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'URBAN'}
+52. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+53. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'RURAL'}
+54. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'URBAN'}
+55. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+56. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'RURAL'}
+57. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'URBAN'}
+58. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+59. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+60. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+61. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+62. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'RURAL'}
+63. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'URBAN'}
+64. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+65. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'RURAL'}
+66. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'URBAN'}
+67. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+68. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'RURAL'}
+69. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q4', 'Units': 'Ratio', 'Location': 'URBAN'}
+70. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+71. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'RURAL'}
+72. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q5', 'Units': 'Ratio', 'Location': 'URBAN'}
+73. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+74. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'RURAL'}
+75. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q3', 'Units': 'Ratio', 'Location': 'URBAN'}
+76. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+77. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'RURAL'}
+78. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': '_T', 'Units': 'Ratio', 'Location': 'URBAN'}
+79. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+80. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'RURAL'}
+81. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q1', 'Units': 'Ratio', 'Location': 'URBAN'}
+82. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'ALLAREA'}
+83. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'RURAL'}
+84. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_AGP_CPRA', 'Quantile': 'Q2', 'Units': 'Ratio', 'Location': 'URBAN'}
+85. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_PART', 'Units': 'Ratio'}
+86. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+87. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+88. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+89. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+90. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+91. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+92. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'SECOND', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+93. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'SECOND', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+94. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'SECOND', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+95. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PREPRI', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+96. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PREPRI', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+97. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'PREPRI', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+98. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+99. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+100. SD {'Goal': '4', 'Target': '4.c', 'Indicator': '4.c.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TRA_GRDL', 'Units': 'PERCENT'}
+101. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_INTNT', 'Units': 'PERCENT'}
+102. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_INTNT', 'Units': 'PERCENT'}
+103. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_INTNT', 'Units': 'PERCENT'}
+104. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_CMPTR', 'Units': 'PERCENT'}
+105. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_CMPTR', 'Units': 'PERCENT'}
+106. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_CMPTR', 'Units': 'PERCENT'}
+107. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': '_T', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_GPI', 'Units': 'Ratio', 'Type of skill': 'LITE'}
+108. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_SANIT', 'Units': 'PERCENT'}
+109. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_SANIT', 'Units': 'PERCENT'}
+110. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_SANIT', 'Units': 'PERCENT'}
+111. SD {'Goal': '4', 'Target': '4.b', 'Indicator': '4.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_SCHIPSL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+112. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_H2O', 'Units': 'PERCENT'}
+113. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_H2O', 'Units': 'PERCENT'}
+114. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_H2O', 'Units': 'PERCENT'}
+115. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+116. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+117. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+118. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+119. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+120. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+121. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+122. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+123. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+124. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+125. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+126. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+127. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+128. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+129. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+130. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+131. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+132. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+133. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+134. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+135. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+136. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+137. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+138. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+139. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+140. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+141. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+142. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+143. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+144. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+145. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+146. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+147. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+148. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+149. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+150. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+151. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+152. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+153. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+154. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+155. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+156. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+157. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+158. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+159. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+160. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+161. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+162. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+163. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q4', 'Units': 'Ratio'}
+164. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q5', 'Units': 'Ratio'}
+165. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q3', 'Units': 'Ratio'}
+166. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': '_T', 'Units': 'Ratio'}
+167. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q1', 'Units': 'Ratio'}
+168. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ALP_CPLR', 'Quantile': 'Q2', 'Units': 'Ratio'}
+169. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_TCAQ', 'Units': 'Ratio'}
+170. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_TCAQ', 'Units': 'Ratio'}
+171. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'SECOND', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_TCAQ', 'Units': 'Ratio'}
+172. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'PREPRI', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_TCAQ', 'Units': 'Ratio'}
+173. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_GPI_TCAQ', 'Units': 'Ratio'}
+174. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+175. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+176. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+177. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+178. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+179. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+180. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+181. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+182. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+183. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+184. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+185. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+186. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+187. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+188. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+189. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+190. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+191. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+192. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+193. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+194. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+195. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+196. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+197. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+198. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+199. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+200. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+201. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+202. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+203. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+204. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+205. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+206. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+207. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+208. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+209. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+210. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+211. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+212. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+213. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+214. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+215. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+216. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+217. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+218. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+219. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+220. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+221. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+222. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+223. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+224. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+225. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+226. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+227. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'UPPSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+228. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+229. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+230. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+231. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+232. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+233. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+234. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+235. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+236. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+237. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+238. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+239. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+240. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+241. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+242. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+243. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+244. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+245. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+246. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+247. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+248. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+249. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+250. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+251. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+252. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+253. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+254. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+255. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+256. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+257. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+258. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+259. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+260. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+261. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+262. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+263. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+264. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+265. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+266. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+267. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+268. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+269. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+270. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+271. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+272. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+273. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+274. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+275. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+276. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+277. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+278. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+279. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+280. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+281. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'PRIMAR', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+282. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+283. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+284. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+285. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+286. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+287. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+288. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+289. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+290. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+291. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+292. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+293. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+294. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+295. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+296. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+297. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+298. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+299. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+300. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+301. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+302. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+303. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+304. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+305. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+306. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+307. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+308. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+309. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+310. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+311. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+312. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+313. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+314. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+315. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+316. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+317. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+318. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+319. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'RURAL'}
+320. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q4', 'Units': 'PERCENT', 'Location': 'URBAN'}
+321. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+322. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'RURAL'}
+323. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q5', 'Units': 'PERCENT', 'Location': 'URBAN'}
+324. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+325. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'RURAL'}
+326. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q3', 'Units': 'PERCENT', 'Location': 'URBAN'}
+327. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+328. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'RURAL'}
+329. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': '_T', 'Units': 'PERCENT', 'Location': 'URBAN'}
+330. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+331. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'RURAL'}
+332. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q1', 'Units': 'PERCENT', 'Location': 'URBAN'}
+333. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+334. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'RURAL'}
+335. SD {'Goal': '4', 'Target': '4.1', 'Indicator': '4.1.2', 'Education level': 'LOWSEC', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_CPLR', 'Quantile': 'Q2', 'Units': 'PERCENT', 'Location': 'URBAN'}
+336. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'UPPSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_ELECT', 'Units': 'PERCENT'}
+337. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'PRIMAR', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_ELECT', 'Units': 'PERCENT'}
+338. SD {'Goal': '4', 'Target': '4.a', 'Indicator': '4.a.1', 'Education level': 'LOWSEC', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ACS_ELECT', 'Units': 'PERCENT'}
+339. SD {'Goal': '4', 'Target': '4.5', 'Indicator': '4.5.1', 'Education level': '_T', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_TOT_SESPI', 'Units': 'Ratio', 'Type of skill': 'LITE'}
+340. SD {'Goal': '4', 'Target': '4.3', 'Indicator': '4.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ADT_EDUCTRN', 'Units': 'PERCENT'}
+341. SD {'Goal': '4', 'Target': '4.3', 'Indicator': '4.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ADT_EDUCTRN', 'Units': 'PERCENT'}
+342. SD {'Goal': '4', 'Target': '4.3', 'Indicator': '4.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SE_ADT_EDUCTRN', 'Units': 'PERCENT'}
+Gaol 5 
+0. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IC_GEN_MGTL', 'Units': 'PERCENT'}
+1. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHES4', 'Units': 'PERCENT'}
+2. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC13', 'Units': 'PERCENT'}
+3. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC11', 'Units': 'PERCENT'}
+4. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC12', 'Units': 'PERCENT'}
+5. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC9', 'Units': 'PERCENT'}
+6. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHES3', 'Units': 'PERCENT'}
+7. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GEN_PARL', 'Units': 'PERCENT'}
+8. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GEN_PARLNT', 'Units': 'NUMBER'}
+9. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC10', 'Units': 'PERCENT'}
+10. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC8', 'Units': 'PERCENT'}
+11. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC2', 'Units': 'PERCENT'}
+12. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHE', 'Units': 'PERCENT'}
+13. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IC_GEN_MGTN', 'Units': 'PERCENT'}
+14. SD {'Goal': '5', 'Target': '5.a', 'Indicator': '5.a.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_LGL_LNDFEMOD', 'Units': 'SCORE'}
+15. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC5', 'Units': 'PERCENT'}
+16. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC6', 'Units': 'PERCENT'}
+17. SD {'Goal': '5', 'Target': '5.3', 'Indicator': '5.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_DYN_MRBF15', 'Age': '20-24', 'Units': 'PER_MARW_20T24Y'}
+18. SD {'Goal': '5', 'Target': '5.3', 'Indicator': '5.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SP_DYN_MRBF18', 'Age': '20-24', 'Units': 'PER_MARW_20T24Y'}
+19. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC1', 'Units': 'PERCENT'}
+20. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC4', 'Units': 'PERCENT'}
+21. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GEN_PARLN', 'Units': 'NUMBER'}
+22. SD {'Goal': '5', 'Target': '5.5', 'Indicator': '5.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GEN_LOCGELS', 'Units': 'PERCENT'}
+23. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC7', 'Units': 'PERCENT'}
+24. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHEC3', 'Units': 'PERCENT'}
+25. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHES1', 'Units': 'PERCENT'}
+26. SD {'Goal': '5', 'Target': '5.6', 'Indicator': '5.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_LGR_ACSRHES2', 'Units': 'PERCENT'}
+Gaol 6 
+0. SD {'Goal': '6', 'Target': '6.5', 'Indicator': '6.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_TBA_H2COAQ', 'Units': 'PERCENT'}
+1. SD {'Goal': '6', 'Target': '6.a', 'Indicator': '6.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_WASHL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+2. SD {'Goal': '6', 'Target': '6.5', 'Indicator': '6.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_TBA_H2CO', 'Units': 'PERCENT'}
+3. SD {'Goal': '6', 'Target': '6.b', 'Indicator': '6.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_PRDU', 'Units': 'NUMBER', 'Location': 'RURAL'}
+4. SD {'Goal': '6', 'Target': '6.b', 'Indicator': '6.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_RURP', 'Units': 'NUMBER', 'Location': 'RURAL'}
+5. SD {'Goal': '6', 'Target': '6.2', 'Indicator': '6.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SAN_DEFECT', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+6. SD {'Goal': '6', 'Target': '6.2', 'Indicator': '6.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SAN_DEFECT', 'Units': 'PERCENT', 'Location': 'RURAL'}
+7. SD {'Goal': '6', 'Target': '6.2', 'Indicator': '6.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_SAN_DEFECT', 'Units': 'PERCENT', 'Location': 'URBAN'}
+8. SD {'Goal': '6', 'Target': '6.b', 'Indicator': '6.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_WAT_PRDU', 'Units': 'NUMBER'}
+9. SD {'Goal': '6', 'Target': '6.6', 'Indicator': '6.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_WBE_PMNR', 'Units': 'KMSQ'}
+10. SD {'Goal': '6', 'Target': '6.4', 'Indicator': '6.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_WUEYST', 'Units': 'USD/m3'}
+11. SD {'Goal': '6', 'Target': '6.6', 'Indicator': '6.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_WBE_PMPP', 'Units': 'PERCENT'}
+12. SD {'Goal': '6', 'Target': '6.6', 'Indicator': '6.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_WBE_PMPR', 'Units': 'PERCENT'}
+13. SD {'Goal': '6', 'Target': '6.5', 'Indicator': '6.5.1', 'Education level': '_T', 'Level/Status': '_T', 'Location': 'ALLAREA', 'SeriesCode': 'ER_H2O_IWRMD', 'Age': 'ALLAGE', 'Units': 'PERCENT', 'Cities': 'NOCITI', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'GeoAreaName': 'Sri Lanka', 'Disability status': '_T', 'Freq': 'ANNUAL', 'Sex': 'BOTHSEX', 'Quantile': '_T'}
+14. SD {'Goal': '6', 'Target': '6.b', 'Indicator': '6.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_WAT_PART', 'Units': 'NUMBER'}
+15. SD {'Goal': '6', 'Target': '6.6', 'Indicator': '6.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_WBE_PMPN', 'Units': 'KMSQ'}
+16. SD {'Goal': '6', 'Target': '6.4', 'Indicator': '6.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_STRESS', 'Units': 'PERCENT', 'Observation Status': 'A'}
+17. SD {'Goal': '6', 'Target': '6.4', 'Indicator': '6.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_STRESS', 'Units': 'PERCENT', 'Observation Status': 'I'}
+18. SD {'Goal': '6', 'Target': '6.1', 'Indicator': '6.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SH_H2O_SAFE', 'Units': 'PERCENT', 'Location': 'URBAN'}
+19. SD {'Goal': '6', 'Target': '6.5', 'Indicator': '6.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_TBA_H2CORL', 'Units': 'PERCENT'}
+Gaol 7 
+0. SD {'Goal': '7', 'Target': '7.3', 'Indicator': '7.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_EGY_PRIM', 'Units': 'MJ_PER_GDP_CON_PPP_USD', 'BasePeriod': '2011.0'}
+1. SD {'Goal': '7', 'Target': '7.1', 'Indicator': '7.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_ACS_ELEC', 'Units': 'PERCENT', 'Location': 'ALLAREA'}
+2. SD {'Goal': '7', 'Target': '7.1', 'Indicator': '7.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_ACS_ELEC', 'Units': 'PERCENT', 'Location': 'RURAL'}
+3. SD {'Goal': '7', 'Target': '7.1', 'Indicator': '7.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_ACS_ELEC', 'Units': 'PERCENT', 'Location': 'URBAN'}
+4. SD {'Goal': '7', 'Target': '7.b', 'Indicator': '7.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_EGY_RNEW', 'Units': 'W_PER_CAPITA'}
+5. SD {'Goal': '7', 'Target': '7.2', 'Indicator': '7.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_FEC_RNEW', 'Units': 'PERCENT'}
+6. SD {'Goal': '7', 'Target': '7.1', 'Indicator': '7.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_EGY_CLEAN', 'Units': 'PERCENT'}
+7. SD {'Goal': '7', 'Target': '7.a', 'Indicator': '7.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_IFF_RANDN', 'Units': 'CON_USD_M', 'BasePeriod': '2018.0'}
+Gaol 8 
+0. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEA', 'Age': 'May-17', 'Units': 'PERCENT'}
+1. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEA', 'Age': 'May-17', 'Units': 'PERCENT'}
+2. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEA', 'Age': 'May-17', 'Units': 'PERCENT'}
+3. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_INJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+4. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_INJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+5. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_INJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+6. SD {'Goal': '8', 'Target': '8.a', 'Indicator': '8.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_TRDDBML', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+7. SD {'Goal': '8', 'Target': '8.a', 'Indicator': '8.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_TRDCML', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+8. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'NONAGR'}
+9. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'TOTAL'}
+10. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'ISIC4_A'}
+11. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'NONAGR'}
+12. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'TOTAL'}
+13. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'ISIC4_A'}
+14. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'NONAGR'}
+15. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'TOTAL'}
+16. SD {'Goal': '8', 'Target': '8.3', 'Indicator': '8.3.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_ISV_IFEM', 'Units': 'PERCENT', 'Activity': 'ISIC4_A'}
+17. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEC', 'Age': 'May-17', 'Units': 'PERCENT'}
+18. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEC', 'Age': 'May-17', 'Units': 'PERCENT'}
+19. SD {'Goal': '8', 'Target': '8.7', 'Indicator': '8.7.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_CHLDEC', 'Age': 'May-17', 'Units': 'PERCENT'}
+20. SD {'Goal': '8', 'Target': '8.b', 'Indicator': '8.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_CPA_YEMP', 'Units': 'SCORE'}
+21. SD {'Goal': '8', 'Target': '8.2', 'Indicator': '8.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_PCAP', 'Units': 'PERCENT'}
+22. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FB_ATM_TOTL', 'Units': 'NUMBER', 'Observation Status': 'A'}
+23. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15-24', 'Units': 'PERCENT'}
+24. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15+', 'Units': 'PERCENT'}
+25. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '25+', 'Units': 'PERCENT'}
+26. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15-24', 'Units': 'PERCENT'}
+27. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15+', 'Units': 'PERCENT'}
+28. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '25+', 'Units': 'PERCENT'}
+29. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15-24', 'Units': 'PERCENT'}
+30. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '15+', 'Units': 'PERCENT'}
+31. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEM', 'Age': '25+', 'Units': 'PERCENT'}
+32. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NFO'}
+33. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'FOF'}
+34. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'FEO'}
+35. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'WOD'}
+36. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'COL'}
+37. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'CRO'}
+38. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'CPR'}
+39. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMM'}
+40. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'BIM'}
+41. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'GBO'}
+42. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'PET'}
+43. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'ALP'}
+44. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMC'}
+45. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'MEO'}
+46. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMA'}
+47. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'WCH'}
+48. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_LBR_NTLCPL', 'Units': 'SCORE'}
+49. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NY_GDP_PCAP', 'Units': 'PERCENT'}
+50. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FB_CBK_BRCH', 'Age': '15+', 'Units': 'NUMBER', 'Observation Status': 'A'}
+51. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_FTLINJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+52. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_FTLINJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+53. SD {'Goal': '8', 'Target': '8.8', 'Indicator': '8.8.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_FTLINJUR', 'Units': 'PER_100000_EMP', 'Migratory status': '_T'}
+54. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.10.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FB_BNK_ACCSS', 'Age': '15+', 'Units': 'PERCENT'}
+55. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.10.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FB_BNK_ACCSS', 'Age': '15+', 'Units': 'PERCENT'}
+56. SD {'Goal': '8', 'Target': '8.1', 'Indicator': '8.10.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FB_BNK_ACCSS', 'Age': '15+', 'Units': 'PERCENT'}
+57. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NFO'}
+58. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'FOF'}
+59. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'FEO'}
+60. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'WOD'}
+61. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'COL'}
+62. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'CRO'}
+63. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'CPR'}
+64. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMM'}
+65. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'BIM'}
+66. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'GBO'}
+67. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'PET'}
+68. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'ALP'}
+69. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMC'}
+70. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'MEO'}
+71. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMA'}
+72. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'WCH'}
+73. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NFO'}
+74. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'FOF'}
+75. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'FEO'}
+76. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'WOD'}
+77. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'COL'}
+78. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'CRO'}
+79. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'BIM'}
+80. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMM'}
+81. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'CPR'}
+82. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'GBO'}
+83. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'PET'}
+84. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'MEO'}
+85. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMC'}
+86. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'ALP'}
+87. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMA'}
+88. SD {'Goal': '8', 'Target': '8.4', 'Indicator': '8.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'WCH'}
+89. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-2'}
+90. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-6'}
+91. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-3'}
+92. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-7'}
+93. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-0'}
+94. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-8'}
+95. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-1'}
+96. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-9'}
+97. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08'}
+98. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-4'}
+99. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-5'}
+100. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-2'}
+101. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-6'}
+102. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-3'}
+103. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-7'}
+104. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-0'}
+105. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-8'}
+106. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-1'}
+107. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-9'}
+108. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08'}
+109. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-4'}
+110. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-5'}
+111. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-2'}
+112. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-6'}
+113. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-3'}
+114. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-7'}
+115. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-0'}
+116. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-8'}
+117. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-1'}
+118. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-9'}
+119. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08'}
+120. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-4'}
+121. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_EARN', 'Units': 'CUR_LCU', 'Type of occupation': 'isco08-5'}
+122. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': 'PD'}
+123. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': '_T'}
+124. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': 'PD'}
+125. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': '_T'}
+126. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': 'PD'}
+127. SD {'Goal': '8', 'Target': '8.5', 'Indicator': '8.5.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_UEMDIS', 'Units': 'PERCENT', 'Disability status': '_T'}
+128. SD {'Goal': '8', 'Target': '8.6', 'Indicator': '8.6.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_NEET', 'Age': '15-24', 'Units': 'PERCENT'}
+129. SD {'Goal': '8', 'Target': '8.6', 'Indicator': '8.6.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_NEET', 'Age': '15-24', 'Units': 'PERCENT'}
+130. SD {'Goal': '8', 'Target': '8.6', 'Indicator': '8.6.1', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_NEET', 'Age': '15-24', 'Units': 'PERCENT'}
+Gaol 9 
+0. SD {'Goal': '9', 'Target': '9.2', 'Indicator': '9.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NV_IND_MANF', 'Units': 'PERCENT', 'BasePeriod': '2015.0'}
+1. SD {'Goal': '9', 'Target': '9.c', 'Indicator': '9.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_MOB_3GNTWK', 'Units': 'PERCENT'}
+2. SD {'Goal': '9', 'Target': '9.c', 'Indicator': '9.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_MOB_2GNTWK', 'Units': 'PERCENT'}
+3. SD {'Goal': '9', 'Target': '9.4', 'Indicator': '9.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_CO2', 'Units': 'TONNES_M', 'Activity': 'ISIC4_C10T32X19'}
+4. SD {'Goal': '9', 'Target': '9.4', 'Indicator': '9.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_CO2', 'Units': 'TONNES_M', 'Activity': 'TOTAL'}
+5. SD {'Goal': '9', 'Target': '9.c', 'Indicator': '9.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_MOB_4GNTWK', 'Units': 'PERCENT'}
+6. SD {'Goal': '9', 'Target': '9.2', 'Indicator': '9.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NV_IND_MANFPC', 'Units': 'CON_USD', 'BasePeriod': '2015.0'}
+7. SD {'Goal': '9', 'Target': '9.2', 'Indicator': '9.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_TLF_MANF', 'Units': 'PERCENT'}
+8. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_FRGVOL', 'Mode of transportation': 'RAI', 'Units': 'T_KM'}
+9. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_FRGVOL', 'Mode of transportation': 'ROA', 'Units': 'T_KM'}
+10. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_FRGVOL', 'Mode of transportation': 'IWW', 'Units': 'T_KM'}
+11. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_FRGVOL', 'Mode of transportation': 'AIR', 'Units': 'T_KM'}
+12. SD {'Goal': '9', 'Target': '9.a', 'Indicator': '9.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TOF_INFRAL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+13. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_PORFVOL', 'Mode of transportation': 'SEA', 'Units': 'TEU'}
+14. SD {'Goal': '9', 'Target': '9.2', 'Indicator': '9.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NV_IND_MANF_CD', 'Units': 'PERCENT'}
+15. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_PFVOL', 'Mode of transportation': 'RAI', 'Units': 'P_KM'}
+16. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_PFVOL', 'Mode of transportation': 'ROA', 'Units': 'P_KM'}
+17. SD {'Goal': '9', 'Target': '9.1', 'Indicator': '9.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IS_RDP_PFVOL', 'Mode of transportation': 'AIR', 'Units': 'P_KM'}
+18. SD {'Goal': '9', 'Target': '9.4', 'Indicator': '9.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_CO2MVA', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2015.0'}
+19. SD {'Goal': '9', 'Target': '9.3', 'Indicator': '9.3.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FC_ACC_SSID', 'Units': 'PERCENT'}
+20. SD {'Goal': '9', 'Target': '9.3', 'Indicator': '9.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NV_IND_SSIS', 'Units': 'PERCENT'}
+21. SD {'Goal': '9', 'Target': '9.4', 'Indicator': '9.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_CO2GDP', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2017.0'}
+22. SD {'Goal': '9', 'Target': '9.5', 'Indicator': '9.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GB_XPD_RSDV', 'Units': 'PERCENT'}
+23. SD {'Goal': '9', 'Target': '9.5', 'Indicator': '9.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GB_POP_SCIERD', 'Units': 'PER_1000000_POP'}
+24. SD {'Goal': '9', 'Target': '9.b', 'Indicator': '9.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'NV_IND_TECH', 'Units': 'PERCENT'}
+Gaol 10 
+0. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IBRD', 'Units': 'PERCENT'}
+1. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'WTO', 'Units': 'PERCENT'}
+2. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IMF', 'Units': 'PERCENT'}
+3. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'ADB', 'Units': 'PERCENT'}
+4. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'UNGA', 'Units': 'PERCENT'}
+5. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IFC', 'Units': 'PERCENT'}
+6. SD {'Goal': '10', 'Target': '10.2', 'Indicator': '10.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_POV_50MI', 'Quantile': 'B50', 'Units': 'PERCENT'}
+7. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSLS', 'Units': 'PERCENT', 'Observation Status': 'A'}
+8. SD {'Goal': '10', 'Target': '10.c', 'Indicator': '10.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_RMT_COST', 'Units': 'PERCENT'}
+9. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'ARM'}
+10. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'AGR'}
+11. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'TEX'}
+12. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'OIL'}
+13. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'CLO'}
+14. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'ALP'}
+15. SD {'Goal': '10', 'Target': '10.a', 'Indicator': '10.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TRF_ZERO', 'Units': 'PERCENT', 'Type of product': 'IND'}
+16. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IBRD', 'Units': 'PERCENT'}
+17. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'WTO', 'Units': 'PERCENT'}
+18. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IMF', 'Units': 'PERCENT'}
+19. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'ADB', 'Units': 'PERCENT'}
+20. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'UNGA', 'Units': 'PERCENT'}
+21. SD {'Goal': '10', 'Target': '10.6', 'Indicator': '10.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IFC', 'Units': 'PERCENT'}
+22. SD {'Goal': '10', 'Target': '10.1', 'Indicator': '10.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_HEI_TOTL', 'Quantile': 'B40', 'Units': 'PERCENT'}
+23. SD {'Goal': '10', 'Target': '10.1', 'Indicator': '10.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SI_HEI_TOTL', 'Quantile': '_T', 'Units': 'PERCENT'}
+24. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSKRTC', 'Units': 'PERCENT', 'Observation Status': 'A'}
+25. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSKA', 'Units': 'PERCENT', 'Observation Status': 'A'}
+26. SD {'Goal': '10', 'Target': '10.7', 'Indicator': '10.7.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SM_DTH_MIGR', 'Units': 'NUMBER'}
+27. SD {'Goal': '10', 'Target': '10.b', 'Indicator': '10.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_TRF_TOTL', 'Units': 'CU_USD_M'}
+28. SD {'Goal': '10', 'Target': '10.7', 'Indicator': '10.7.4', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SM_POP_REFG_OR', 'Units': 'PER_100000_POP'}
+29. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSANL', 'Units': 'PERCENT', 'Observation Status': 'A'}
+30. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSKNL', 'Units': 'PERCENT', 'Observation Status': 'A'}
+31. SD {'Goal': '10', 'Target': '10.5', 'Indicator': '10.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'FI_FSI_FSERA', 'Units': 'PERCENT', 'Observation Status': 'A'}
+32. SD {'Goal': '10', 'Target': '10.4', 'Indicator': '10.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SL_EMP_GTOTL', 'Units': 'PERCENT'}
+Gaol 11 
+0. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MMHN', 'Units': 'NUMBER'}
+1. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_GDPLS', 'Units': 'CU_USD'}
+2. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_DAFF', 'Units': 'PER_100000_POP'}
+3. SD {'Goal': '11', 'Target': '11.6', 'Indicator': '11.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_PM25', 'Units': 'mgr/m^3', 'Location': 'ALLAREA'}
+4. SD {'Goal': '11', 'Target': '11.6', 'Indicator': '11.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_PM25', 'Units': 'mgr/m^3', 'Location': 'RURAL'}
+5. SD {'Goal': '11', 'Target': '11.6', 'Indicator': '11.6.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_PM25', 'Units': 'mgr/m^3', 'Location': 'URBAN'}
+6. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MORT', 'Units': 'NUMBER'}
+7. SD {'Goal': '11', 'Target': '11.a', 'Indicator': '11.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SD_CPA_UPRDP', 'Units': 'NUMBER'}
+8. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_OBDN', 'Units': 'NUMBER'}
+9. SD {'Goal': '11', 'Target': '11.b', 'Indicator': '11.b.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILN', 'Units': 'NUMBER'}
+10. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_LSGP', 'Units': 'PERCENT'}
+11. SD {'Goal': '11', 'Target': '11.b', 'Indicator': '11.b.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILS', 'Units': 'PERCENT'}
+12. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MISS', 'Units': 'NUMBER'}
+13. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDYN', 'Units': 'NUMBER'}
+14. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_IJILN', 'Units': 'NUMBER'}
+15. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MTMP', 'Units': 'PER_100000_POP'}
+16. SD {'Goal': '11', 'Target': '11.b', 'Indicator': '11.b.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GOV_LOGV', 'Units': 'NUMBER'}
+17. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_AFFCT', 'Units': 'NUMBER'}
+18. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDAN', 'Units': 'NUMBER'}
+19. SD {'Goal': '11', 'Target': '11.b', 'Indicator': '11.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_LGRGSR', 'Units': 'INDEX'}
+20. SD {'Goal': '11', 'Target': '11.5', 'Indicator': '11.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_HOLH', 'Units': 'CU_USD'}
+21. SD {'Goal': '11', 'Target': '11.6', 'Indicator': '11.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_REF_WASCOL', 'Units': 'PERCENT', 'Cities': 'MORATUWA'}
+22. SD {'Goal': '11', 'Target': '11.6', 'Indicator': '11.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_REF_WASCOL', 'Units': 'PERCENT', 'Cities': 'DEHIWALA-MOUNTLAVINIA'}
+Gaol 12 
+0. SD {'Goal': '12', 'Target': '12.1', 'Indicator': '12.1.1', 'Education level': '_T', 'Level/Status': '_T', 'Location': 'ALLAREA', 'SeriesCode': 'SG_SCP_CNTRY', 'Age': 'ALLAGE', 'Units': 'NUMBER', 'Cities': 'NOCITI', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'GeoAreaName': 'Sri Lanka', 'Disability status': '_T', 'Freq': 'ANNUAL', 'Sex': 'BOTHSEX', 'Quantile': '_T'}
+1. SD {'Goal': '12', 'Target': '12.6', 'Indicator': '12.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_SCP_FRMN', 'Level of requirement': 'ADVANCED', 'Units': 'NUMBER'}
+2. SD {'Goal': '12', 'Target': '12.6', 'Indicator': '12.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_SCP_FRMN', 'Level of requirement': 'MINIMUM', 'Units': 'NUMBER'}
+3. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_HAZ_CMRSTHOLM', 'Units': 'PERCENT'}
+4. SD {'Goal': '12', 'Target': '12.b', 'Indicator': '12.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ST_EEV_STDACCT', 'Units': 'NUMBER'}
+5. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_HAZ_CMRROTDAM', 'Units': 'PERCENT'}
+6. SD {'Goal': '12', 'Target': '12.c', 'Indicator': '12.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_FFS_CMPT', 'Units': 'CON_USD_M', 'BasePeriod': '2015.0'}
+7. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_HAZ_CMRBASEL', 'Units': 'PERCENT'}
+8. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NFO'}
+9. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'FOF'}
+10. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'FEO'}
+11. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'WOD'}
+12. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'COL'}
+13. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'CRO'}
+14. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'CPR'}
+15. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMM'}
+16. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'BIM'}
+17. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'GBO'}
+18. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'PET'}
+19. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'ALP'}
+20. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMC'}
+21. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'MEO'}
+22. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'NMA'}
+23. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPC', 'Units': 'TONNES', 'Type of product': 'WCH'}
+24. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_HAZ_CMRMNMT', 'Units': 'PERCENT'}
+25. SD {'Goal': '12', 'Target': '12.b', 'Indicator': '12.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ST_EEV_ACCSEEA', 'Units': 'NUMBER'}
+26. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MWT_COLLV', 'Units': 'TONNES'}
+27. SD {'Goal': '12', 'Target': '12.1', 'Indicator': '12.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_SCP_POLINS', 'Policy instruments': 'POLICY_MACRO', 'Units': 'NUMBER'}
+28. SD {'Goal': '12', 'Target': '12.c', 'Indicator': '12.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_FFS_CMPT_GDP', 'Units': 'PERCENT'}
+29. SD {'Goal': '12', 'Target': '12.a', 'Indicator': '12.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EG_EGY_RNEW', 'Units': 'W_PER_CAPITA'}
+30. SD {'Goal': '12', 'Target': '12.c', 'Indicator': '12.c.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_FFS_CMPT_PC', 'Units': 'CON_USD', 'BasePeriod': '2015.0'}
+31. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NFO'}
+32. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'FOF'}
+33. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'FEO'}
+34. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'WOD'}
+35. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'COL'}
+36. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'CRO'}
+37. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'CPR'}
+38. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMM'}
+39. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'BIM'}
+40. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'GBO'}
+41. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'PET'}
+42. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'ALP'}
+43. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMC'}
+44. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'MEO'}
+45. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'NMA'}
+46. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPT', 'Units': 'TONNES', 'Type of product': 'WCH'}
+47. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NFO'}
+48. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'FOF'}
+49. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'FEO'}
+50. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'WOD'}
+51. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'COL'}
+52. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'CRO'}
+53. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'BIM'}
+54. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMM'}
+55. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'CPR'}
+56. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'GBO'}
+57. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'PET'}
+58. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'MEO'}
+59. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMC'}
+60. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'ALP'}
+61. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'NMA'}
+62. SD {'Goal': '12', 'Target': '12.2', 'Indicator': '12.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAT_DOMCMPG', 'Units': 'KG_PER_CON_USD', 'BasePeriod': '2010.0', 'Type of product': 'WCH'}
+63. SD {'Goal': '12', 'Target': '12.4', 'Indicator': '12.4.1', 'Education level': '_T', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_HAZ_CMRMNTRL', 'Age': 'ALLAGE', 'Quantile': '_T', 'Units': 'PERCENT', 'Disability status': '_T', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'Location': 'ALLAREA', 'Freq': 'ANNUAL'}
+64. SD {'Goal': '12', 'Target': '12.b', 'Indicator': '12.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ST_EEV_ACCTSA', 'Units': 'NUMBER'}
+65. SD {'Goal': '12', 'Target': '12.1', 'Indicator': '12.1.1', 'Education level': '_T', 'Level/Status': '_T', 'Location': 'ALLAREA', 'SeriesCode': 'SG_SCP_TOTL', 'Age': 'ALLAGE', 'Units': 'NUMBER', 'Cities': 'NOCITI', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'GeoAreaName': 'Sri Lanka', 'Disability status': '_T', 'Freq': 'ANNUAL', 'Sex': 'BOTHSEX', 'Quantile': '_T'}
+Gaol 13 
+0. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MMHN', 'Units': 'NUMBER'}
+1. SD {'Goal': '13', 'Target': '13.2', 'Indicator': '13.2.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_ATM_GHGT_NAIP', 'Units': 'MT_CO2E'}
+2. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_DAFF', 'Units': 'PER_100000_POP'}
+3. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MORT', 'Units': 'NUMBER'}
+4. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILN', 'Units': 'NUMBER'}
+5. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_SILS', 'Units': 'PERCENT'}
+6. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MISS', 'Units': 'NUMBER'}
+7. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDYN', 'Units': 'NUMBER'}
+8. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_IJILN', 'Units': 'NUMBER'}
+9. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_MTMP', 'Units': 'PER_100000_POP'}
+10. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_GOV_LOGV', 'Units': 'NUMBER'}
+11. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_AFFCT', 'Units': 'NUMBER'}
+12. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_DSR_PDAN', 'Units': 'NUMBER'}
+13. SD {'Goal': '13', 'Target': '13.1', 'Indicator': '13.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DSR_LGRGSR', 'Units': 'INDEX'}
+Gaol 14 
+0. SD {'Goal': '14', 'Target': '14.5', 'Indicator': '14.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MRN_MPA', 'Units': 'PERCENT'}
+1. SD {'Goal': '14', 'Target': '14.5', 'Indicator': '14.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MRN_MARINT', 'Units': 'KMSQ'}
+2. SD {'Goal': '14', 'Target': '14.1', 'Indicator': '14.1.1', 'Education level': '_T', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAR_CHLDEV', 'Age': 'ALLAGE', 'Quantile': '_T', 'Units': 'PERCENT', 'Disability status': '_T', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'Location': 'ALLAREA', 'Freq': 'ANNUAL'}
+3. SD {'Goal': '14', 'Target': '14.5', 'Indicator': '14.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MRN_MARIN', 'Units': 'PERCENT'}
+4. SD {'Goal': '14', 'Target': '14.7', 'Indicator': '14.7.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_SCP_FSHGDP', 'Units': 'PERCENT'}
+5. SD {'Goal': '14', 'Target': '14.1', 'Indicator': '14.1.1', 'Education level': '_T', 'Location': 'ALLAREA', 'SeriesCode': 'EN_MAR_BEALITSQ', 'Age': 'ALLAGE', 'Units': 'NUMBER', 'Cities': 'NOCITI', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'GeoAreaName': 'Sri Lanka', 'Disability status': '_T', 'Type of speed': 'ANYS', 'Freq': 'ANNUAL', 'Sex': 'BOTHSEX', 'Quantile': '_T'}
+6. SD {'Goal': '14', 'Target': '14.b', 'Indicator': '14.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_REG_SSFRAR', 'Units': 'NUMBER'}
+7. SD {'Goal': '14', 'Target': '14.4', 'Indicator': '14.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_H2O_FWTL', 'Units': 'PERCENT'}
+8. SD {'Goal': '14', 'Target': '14.6', 'Indicator': '14.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_REG_UNFCIM', 'Units': 'NUMBER', 'Observation Status': 'O'}
+9. SD {'Goal': '14', 'Target': '14.6', 'Indicator': '14.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_REG_UNFCIM', 'Units': 'NUMBER', 'Observation Status': 'A'}
+10. SD {'Goal': '14', 'Target': '14.1', 'Indicator': '14.1.1', 'Frequency of Chlorophyll-a concentration': 'High', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAR_CHLANM', 'Units': 'PERCENT'}
+11. SD {'Goal': '14', 'Target': '14.1', 'Indicator': '14.1.1', 'Frequency of Chlorophyll-a concentration': 'Moderate', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'EN_MAR_CHLANM', 'Units': 'PERCENT'}
+Gaol 15 
+0. SD {'Goal': '15', 'Target': '15.6', 'Indicator': '15.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_CBD_ABSCLRHS', 'Units': 'NUMBER'}
+1. SD {'Goal': '15', 'Target': '15.1', 'Indicator': '15.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRST', 'Units': 'PERCENT'}
+2. SD {'Goal': '15', 'Target': '15.1', 'Indicator': '15.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_PTD_TERR', 'Units': 'PERCENT'}
+3. SD {'Goal': '15', 'Target': '15.a', 'Indicator': '15.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_ODA_BDVL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+4. SD {'Goal': '15', 'Target': '15.a', 'Indicator': '15.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_ODA_BDVL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+5. SD {'Goal': '15', 'Target': '15.b', 'Indicator': '15.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_ODA_BDVL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+6. SD {'Goal': '15', 'Target': '15.b', 'Indicator': '15.b.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_ODA_BDVL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+7. SD {'Goal': '15', 'Target': '15.6', 'Indicator': '15.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_CBD_NAGOYA', 'Units': 'NUMBER'}
+8. SD {'Goal': '15', 'Target': '15.2', 'Indicator': '15.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTBIOPHA', 'Units': 'T_PER_HA'}
+9. SD {'Goal': '15', 'Target': '15.1', 'Indicator': '15.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_PTD_FRHWTR', 'Units': 'PERCENT'}
+10. SD {'Goal': '15', 'Target': '15.5', 'Indicator': '15.5.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_RSK_LST', 'Units': 'INDEX'}
+11. SD {'Goal': '15', 'Target': '15.4', 'Indicator': '15.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_PTD_MTN', 'Units': 'PERCENT'}
+12. SD {'Goal': '15', 'Target': '15.3', 'Indicator': '15.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_DGRD', 'Units': 'PERCENT'}
+13. SD {'Goal': '15', 'Target': '15.1', 'Indicator': '15.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTN', 'Units': 'HA_TH'}
+14. SD {'Goal': '15', 'Target': '15.4', 'Indicator': '15.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MTN_GRNCVI', 'Units': 'PERCENT', 'Observation Status': 'A', 'Mountain Elevation': '4'}
+15. SD {'Goal': '15', 'Target': '15.4', 'Indicator': '15.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MTN_GRNCVI', 'Units': 'PERCENT', 'Observation Status': 'A', 'Mountain Elevation': '6'}
+16. SD {'Goal': '15', 'Target': '15.4', 'Indicator': '15.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MTN_GRNCVI', 'Units': 'PERCENT', 'Observation Status': 'A', 'Mountain Elevation': 'ALL'}
+17. SD {'Goal': '15', 'Target': '15.4', 'Indicator': '15.4.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_MTN_GRNCVI', 'Units': 'PERCENT', 'Observation Status': 'A', 'Mountain Elevation': '5'}
+18. SD {'Goal': '15', 'Target': '15.6', 'Indicator': '15.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_CBD_ORSPGRFA', 'Units': 'NUMBER'}
+19. SD {'Goal': '15', 'Target': '15.2', 'Indicator': '15.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTMGT', 'Units': 'PERCENT'}
+20. SD {'Goal': '15', 'Target': '15.6', 'Indicator': '15.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_CBD_SMTA', 'Units': 'NUMBER'}
+21. SD {'Goal': '15', 'Target': '15.2', 'Indicator': '15.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTCERT', 'Units': 'HA_TH'}
+22. SD {'Goal': '15', 'Target': '15.2', 'Indicator': '15.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTCHG', 'Units': 'PERCENT'}
+23. SD {'Goal': '15', 'Target': '15.8', 'Indicator': '15.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_IAS_LEGIS', 'Units': 'BOOL'}
+24. SD {'Goal': '15', 'Target': '15.9', 'Indicator': '15.9.1', 'Education level': '_T', 'Level/Status': 'ABT2INSUFNT', 'Location': 'ALLAREA', 'SeriesCode': 'ER_BDY_ABT2NP', 'Age': 'ALLAGE', 'Units': 'NUMBER', 'Cities': 'NOCITI', 'Type of occupation': 'isco08', 'Observation Status': 'A', 'Activity': 'TOTAL', 'Type of product': 'ALP', 'GeoAreaName': 'Sri Lanka', 'Disability status': '_T', 'Freq': 'ANNUAL', 'Sex': 'BOTHSEX', 'Quantile': '_T'}
+25. SD {'Goal': '15', 'Target': '15.1', 'Indicator': '15.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_TOTL', 'Units': 'HA_TH'}
+26. SD {'Goal': '15', 'Target': '15.2', 'Indicator': '15.2.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'AG_LND_FRSTPRCT', 'Units': 'PERCENT'}
+27. SD {'Goal': '15', 'Target': '15.8', 'Indicator': '15.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_IAS_NBSAP', 'Units': 'BOOL'}
+28. SD {'Goal': '15', 'Target': '15.6', 'Indicator': '15.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'ER_CBD_PTYPGRFA', 'Units': 'NUMBER'}
+Gaol 16 
+0. SD {'Goal': '16', 'Target': '16.9', 'Indicator': '16.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_REG_BRTH', 'Age': '<5Y', 'Units': 'PERCENT'}
+1. SD {'Goal': '16', 'Target': '16.1', 'Indicator': '16.10.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INF_ACCSS', 'Units': 'NUMBER'}
+2. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IBRD', 'Units': 'PERCENT'}
+3. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'WTO', 'Units': 'PERCENT'}
+4. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IMF', 'Units': 'PERCENT'}
+5. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'ADB', 'Units': 'PERCENT'}
+6. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'UNGA', 'Units': 'PERCENT'}
+7. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_VRTDEV', 'Name of international institution': 'IFC', 'Units': 'PERCENT'}
+8. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLYR_LC', 'Age': '<=45Y', 'Units': 'Ratio'}
+9. SD {'Goal': '16', 'Target': '16.6', 'Indicator': '16.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GF_XPD_GBPC', 'Units': 'PERCENT'}
+10. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLSP_LC', 'Age': '46+', 'Units': 'NUMBER'}
+11. SD {'Goal': '16', 'Target': '16.1', 'Indicator': '16.1.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_IHR_PSRC', 'Units': 'PER_100000_POP'}
+12. SD {'Goal': '16', 'Target': '16.1', 'Indicator': '16.1.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_IHR_PSRC', 'Units': 'PER_100000_POP'}
+13. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLYN_LC', 'Age': '<=45Y', 'Units': 'NUMBER'}
+14. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLMP_LC', 'Units': 'Ratio'}
+15. SD {'Goal': '16', 'Target': '16.a', 'Indicator': '16.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_NHR_INTEXSTN', 'Units': 'NUMBER'}
+16. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IBRD', 'Units': 'PERCENT'}
+17. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'WTO', 'Units': 'PERCENT'}
+18. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IMF', 'Units': 'PERCENT'}
+19. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'ADB', 'Units': 'PERCENT'}
+20. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'UNGA', 'Units': 'PERCENT'}
+21. SD {'Goal': '16', 'Target': '16.8', 'Indicator': '16.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_INT_MBRDEV', 'Name of international institution': 'IFC', 'Units': 'PERCENT'}
+22. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'FINANCE'}
+23. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'FOR_AFF'}
+24. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'GEN_EQU'}
+25. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'DEFENCE'}
+26. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'HUM_RIGH'}
+27. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'FINANCE'}
+28. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'FOR_AFF'}
+29. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'GEN_EQU'}
+30. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'DEFENCE'}
+31. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'HUM_RIGH'}
+32. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'FINANCE'}
+33. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'FOR_AFF'}
+34. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'GEN_EQU'}
+35. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'DEFENCE'}
+36. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '46+', 'Units': 'NUMBER', 'Parliamentary committees': 'HUM_RIGH'}
+37. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'FINANCE'}
+38. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'FOR_AFF'}
+39. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'GEN_EQU'}
+40. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'DEFENCE'}
+41. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'Sex': '_X', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLCC_LC', 'Age': '_X', 'Units': 'NUMBER', 'Parliamentary committees': 'HUM_RIGH'}
+42. SD {'Goal': '16', 'Target': '16.5', 'Indicator': '16.5.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IC_FRM_BRIB', 'Units': 'PERCENT'}
+43. SD {'Goal': '16', 'Target': '16.1', 'Indicator': '16.1.1', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_IHR_PSRCN', 'Units': 'NUMBER'}
+44. SD {'Goal': '16', 'Target': '16.1', 'Indicator': '16.1.1', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_IHR_PSRCN', 'Units': 'NUMBER'}
+45. SD {'Goal': '16', 'Target': '16.2', 'Indicator': '16.2.2', 'Sex': 'BOTHSEX', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_HTF_DETV', 'Age': 'ALLAGE', 'Units': 'NUMBER'}
+46. SD {'Goal': '16', 'Target': '16.a', 'Indicator': '16.a.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_NHR_IMPLN', 'Units': 'NUMBER'}
+47. SD {'Goal': '16', 'Target': '16.3', 'Indicator': '16.3.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_PRS_UNSNT', 'Units': 'PERCENT'}
+48. SD {'Goal': '16', 'Target': '16.2', 'Indicator': '16.2.2', 'Sex': 'MALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_HTF_DETVFL', 'Age': 'ALLAGE', 'Units': 'NUMBER'}
+49. SD {'Goal': '16', 'Target': '16.2', 'Indicator': '16.2.2', 'Sex': 'FEMALE', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'VC_HTF_DETVFL', 'Age': 'ALLAGE', 'Units': 'NUMBER'}
+50. SD {'Goal': '16', 'Target': '16.7', 'Indicator': '16.7.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_DMK_PARLYP_LC', 'Age': '<=45Y', 'Units': 'PERCENT'}
+Gaol 17 
+0. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DMFN', 'Units': 'PERCENT', 'Type of product': 'AGR'}
+1. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DMFN', 'Units': 'PERCENT', 'Type of product': 'TEX'}
+2. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DMFN', 'Units': 'PERCENT', 'Type of product': 'CLO'}
+3. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DMFN', 'Units': 'PERCENT', 'Type of product': 'ALP'}
+4. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DMFN', 'Units': 'PERCENT', 'Type of product': 'IND'}
+5. SD {'Goal': '17', 'Target': '17.19', 'Indicator': '17.19.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_CAPTY', 'Units': 'CU_USD'}
+6. SD {'Goal': '17', 'Target': '17.4', 'Indicator': '17.4.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DT_TDS_DECT', 'Units': 'PERCENT'}
+7. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_NSDSFDDNR', 'Units': 'NUMBER'}
+8. SD {'Goal': '17', 'Target': '17.19', 'Indicator': '17.19.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_REG_BRTH90N', 'Units': 'NUMBER'}
+9. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_FPOS', 'Units': 'NUMBER'}
+10. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.1.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GC_GOB_TAXD', 'Units': 'PERCENT', 'Observation Status': 'A'}
+11. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'AGR'}
+12. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'ARM'}
+13. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'TEX'}
+14. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'OIL'}
+15. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'CLO'}
+16. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'IND'}
+17. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMFN', 'Units': 'PERCENT', 'Type of product': 'ALP'}
+18. SD {'Goal': '17', 'Target': '17.17', 'Indicator': '17.17.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GF_COM_PPPI', 'Units': 'CU_USD_M'}
+19. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_NSDSIMPL', 'Units': 'NUMBER'}
+20. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DPRF', 'Units': 'PERCENT', 'Type of product': 'AGR'}
+21. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DPRF', 'Units': 'PERCENT', 'Type of product': 'TEX'}
+22. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DPRF', 'Units': 'PERCENT', 'Type of product': 'CLO'}
+23. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DPRF', 'Units': 'PERCENT', 'Type of product': 'IND'}
+24. SD {'Goal': '17', 'Target': '17.12', 'Indicator': '17.12.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_DPRF', 'Units': 'PERCENT', 'Type of product': 'ALP'}
+25. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_NSDSFDOTHR', 'Units': 'NUMBER'}
+26. SD {'Goal': '17', 'Target': '17.8', 'Indicator': '17.8.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_USE_ii99', 'Units': 'PER_100_POP'}
+27. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_NSDSFDGVT', 'Units': 'NUMBER'}
+28. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GR_G14_GDP', 'Units': 'PERCENT', 'Observation Status': 'A'}
+29. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBND', 'Units': 'PER_100_POP', 'Type of speed': '256KT2MBPS'}
+30. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBND', 'Units': 'PER_100_POP', 'Type of speed': '10MBPS'}
+31. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBND', 'Units': 'PER_100_POP', 'Type of speed': 'ANYS'}
+32. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBND', 'Units': 'PER_100_POP', 'Type of speed': '2MT10MBPS'}
+33. SD {'Goal': '17', 'Target': '17.18', 'Indicator': '17.18.3', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_STT_NSDSFND', 'Units': 'NUMBER'}
+34. SD {'Goal': '17', 'Target': '17.17', 'Indicator': '17.17.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GF_COM_PPPI_KD', 'Units': 'CON_USD_M', 'BasePeriod': '2019.0'}
+35. SD {'Goal': '17', 'Target': '17.19', 'Indicator': '17.19.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_REG_DETH75N', 'Units': 'NUMBER'}
+36. SD {'Goal': '17', 'Target': '17.3', 'Indicator': '17.3.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'BX_TRF_PWKR', 'Units': 'PERCENT'}
+37. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBNDN', 'Units': 'NUMBER', 'Type of speed': '256KT2MBPS'}
+38. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBNDN', 'Units': 'NUMBER', 'Type of speed': '10MBPS'}
+39. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBNDN', 'Units': 'NUMBER', 'Type of speed': 'ANYS'}
+40. SD {'Goal': '17', 'Target': '17.6', 'Indicator': '17.6.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'IT_NET_BBNDN', 'Units': 'NUMBER', 'Type of speed': '2MT10MBPS'}
+41. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.1.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GR_G14_XDC', 'Units': 'CUR_LCU_M', 'Observation Status': 'A'}
+42. SD {'Goal': '17', 'Target': '17.3', 'Indicator': '17.3.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'GF_FRN_FDI', 'Units': 'CU_USD_M'}
+43. SD {'Goal': '17', 'Target': '17.9', 'Indicator': '17.9.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'DC_FTA_TOTAL', 'Units': 'CON_USD', 'BasePeriod': '2018.0'}
+44. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'ARM'}
+45. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'AGR'}
+46. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'TEX'}
+47. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'OIL'}
+48. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'CLO'}
+49. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'ALP'}
+50. SD {'Goal': '17', 'Target': '17.1', 'Indicator': '17.10.1', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'TM_TAX_WMPS', 'Units': 'PERCENT', 'Type of product': 'IND'}
+51. SD {'Goal': '17', 'Target': '17.19', 'Indicator': '17.19.2', 'GeoAreaName': 'Sri Lanka', 'SeriesCode': 'SG_REG_CENSUSN', 'Units': 'NUMBER'}
